@@ -1,1 +1,4 @@
-Flask==2.1.0
+Flask==2.0.3
+Werkzeug==0.16.1
+tensorflow==2.5.0  # Or your preferred version
+Pillow==8.2.0      # Or your preferred version for image processing
